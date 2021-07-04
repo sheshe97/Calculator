@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sheshe97/calculator.git/static/css/main.bcbd5196.chunk.css",
+    "main.js": "/sheshe97/calculator.git/static/js/main.d7c677ff.chunk.js",
+    "main.js.map": "/sheshe97/calculator.git/static/js/main.d7c677ff.chunk.js.map",
+    "runtime-main.js": "/sheshe97/calculator.git/static/js/runtime-main.39d2bbbd.js",
+    "runtime-main.js.map": "/sheshe97/calculator.git/static/js/runtime-main.39d2bbbd.js.map",
+    "static/js/2.b6b77b9f.chunk.js": "/sheshe97/calculator.git/static/js/2.b6b77b9f.chunk.js",
+    "static/js/2.b6b77b9f.chunk.js.map": "/sheshe97/calculator.git/static/js/2.b6b77b9f.chunk.js.map",
+    "index.html": "/sheshe97/calculator.git/index.html",
+    "static/css/main.bcbd5196.chunk.css.map": "/sheshe97/calculator.git/static/css/main.bcbd5196.chunk.css.map",
+    "static/js/2.b6b77b9f.chunk.js.LICENSE.txt": "/sheshe97/calculator.git/static/js/2.b6b77b9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39d2bbbd.js",
+    "static/js/2.b6b77b9f.chunk.js",
+    "static/css/main.bcbd5196.chunk.css",
+    "static/js/main.d7c677ff.chunk.js"
+  ]
+}
